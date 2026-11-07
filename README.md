@@ -77,7 +77,7 @@ Run all cells (under a minute). `random_state = 42` is used throughout.
 
 - **Dataset:** the test partition (25,976 rows) of the *Airline Passenger Satisfaction* dataset published on Kaggle by TJ Klein, which is itself derived from an earlier Kaggle dataset by John D. It was supplied through upGrad coursework and is included for educational, non-commercial use; see the original Kaggle page for its terms.
 - The analysis in `notebooks/` is my own implementation. It follows the section structure of an upGrad binary logistic regression demo, which is not reproduced here.
-- Completed as part of the MS in Artificial Intelligence (Liverpool John Moores University, delivered via upGrad).
+- Coursework completed during my MS in Artificial Intelligence (Liverpool John Moores University, delivered via upGrad); published to GitHub in November 2026.
 
 ## Licence
 
