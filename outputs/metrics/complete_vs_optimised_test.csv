@@ -1,0 +1,8 @@
+,Complete,Optimised
+Accuracy,0.903,0.903
+Precision,0.882,0.881
+Recall (satisfied),0.9,0.9
+Specificity (dissatisfied caught),0.906,0.905
+F1,0.891,0.89
+ROC-AUC,0.966,0.966
+Encoded features,28.0,27.0

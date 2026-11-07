@@ -1,0 +1,29 @@
+,Coef (log-odds),Odds ratio,OR 2.5%,OR 97.5%,p-value
+Type of Travel_Personal Travel,-3.4833,0.0307,0.0257,0.0367,0.0
+Customer Type_disloyal Customer,-2.7024,0.067,0.0565,0.0795,0.0
+missingindicator_Inflight wifi service,1.5305,4.6205,3.502,6.0961,0.0
+Online boarding,1.1965,3.3084,3.0691,3.5663,0.0
+Inflight wifi service,1.1303,3.0965,2.8571,3.3559,0.0
+Class_Eco Plus,-0.993,0.3705,0.2961,0.4634,0.0
+Class_Eco,-0.7578,0.4687,0.4076,0.539,0.0
+Departure/Arrival time convenient,-0.5188,0.5953,0.5512,0.6428,0.0
+Checkin service,0.5012,1.6506,1.5587,1.748,0.0
+On-board service,0.4211,1.5236,1.4205,1.6342,0.0
+Leg room service,0.4198,1.5217,1.4328,1.6161,0.0
+Ease of Online booking,0.3812,1.4641,1.3461,1.5925,0.0
+Cleanliness,0.3773,1.4583,1.343,1.5835,0.0
+Gate location,-0.349,0.7054,0.6568,0.7576,0.0
+Arrival Delay in Minutes,-0.3236,0.7235,0.6638,0.7887,0.0
+missingindicator_Ease of Online booking,-0.2562,0.774,0.5778,1.0369,0.0859
+missingindicator_Online boarding,0.1875,1.2062,0.9691,1.5014,0.0932
+Inflight service,0.1824,1.2001,1.1137,1.2931,0.0
+Baggage handling,0.1709,1.1863,1.1046,1.274,0.0
+Gender_Male,0.139,1.1491,1.0367,1.2737,0.0082
+Inflight entertainment,0.111,1.1174,1.0101,1.236,0.0312
+Food and drink,-0.096,0.9085,0.8424,0.9798,0.0128
+Age,-0.0626,0.9394,0.887,0.9948,0.0326
+missingindicator_Leg room service,0.054,1.0555,0.9419,1.1827,0.3525
+Seat comfort,-0.0442,0.9568,0.8835,1.0362,0.2775
+missingindicator_Departure/Arrival time convenient,0.0433,1.0442,0.9831,1.1091,0.1597
+Departure Delay in Minutes,-0.0323,0.9682,0.8886,1.0549,0.4605
+Flight Distance,0.0293,1.0297,0.9712,1.0918,0.3266

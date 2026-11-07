@@ -1,0 +1,16 @@
+,Odds ratio (per 1 SD),OR 2.5%,OR 97.5%,p-value
+Online boarding,3.307,3.068,3.565,0.0
+Inflight wifi service,3.096,2.856,3.355,0.0
+Checkin service,1.651,1.559,1.748,0.0
+On-board service,1.523,1.42,1.634,0.0
+Leg room service,1.521,1.432,1.615,0.0
+Ease of Online booking,1.465,1.347,1.593,0.0
+Cleanliness,1.458,1.342,1.583,0.0
+Inflight service,1.2,1.113,1.293,0.0
+Baggage handling,1.186,1.104,1.274,0.0
+Inflight entertainment,1.118,1.011,1.237,0.03
+Seat comfort,0.956,0.883,1.036,0.274
+Food and drink,0.909,0.843,0.98,0.013
+Gate location,0.705,0.657,0.757,0.0
+Arrival Delay in Minutes,0.705,0.669,0.743,0.0
+Departure/Arrival time convenient,0.595,0.551,0.643,0.0

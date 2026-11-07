@@ -1,0 +1,7 @@
+,Logistic - ratings linear,Logistic - ratings categorical,Gradient boosting
+Accuracy,0.903,0.934,0.962
+Precision,0.881,0.927,0.966
+Recall (satisfied),0.9,0.924,0.947
+Specificity (dissatisfied caught),0.905,0.943,0.974
+F1,0.89,0.925,0.956
+ROC-AUC,0.966,0.979,0.994
